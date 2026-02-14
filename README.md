@@ -1,4 +1,4 @@
-## Resusable Calender component
+## Resusable Calendar component
 
 ## Project Structured
    Componentes added and helper functions added
